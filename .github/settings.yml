@@ -1,6 +1,6 @@
 ---
 repository:
-  name: promtail
+  name: ansible-promtail
   description: Ansible role to install and configure promtail
   topics: ansible, role, ansible-role, hacktoberfest
 
